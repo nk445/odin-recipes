@@ -46,3 +46,8 @@ img {
     width: 1200px;
     margin: 0 auto;
 }
+
+.homeLink {
+    padding: 20px 0;
+    display: block;
+}
